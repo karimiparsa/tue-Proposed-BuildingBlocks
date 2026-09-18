@@ -196,13 +196,14 @@ Ideas and concepts for BBs get collected in the [WorkInProgress folder](/WorkInP
         - Virtualization
             - [BB_ L4Re](/BB-SC/2a-OSLayer/Virtualization/BB_%20L4Re.md)
     - [2b-MWLayer](/BB-SC/2b-MWLayer/README.md)
-            - [BB-DNCE](/BB-SC/2b-MWLayer/Communication/BB-DNCE.md)
+        - Communication
             - [BB_agnocast](/BB-SC/2b-MWLayer/Communication/BB_agnocast.md)
             - [BB_capicxx_core_runtime](/BB-SC/2b-MWLayer/Communication/BB_capicxx_core_runtime.md)
             - [BB_capicxx_someip_runtime](/BB-SC/2b-MWLayer/Communication/BB_capicxx_someip_runtime.md)
             - [BB_COVESA_Open1722](/BB-SC/2b-MWLayer/Communication/BB_COVESA_Open1722.md)
             - [BB_COVESA_uServices](/BB-SC/2b-MWLayer/Communication/BB_COVESA_uServices.md)
             - [BB_COVESA_VISSR](/BB-SC/2b-MWLayer/Communication/BB_COVESA_VISSR.md)
+            - [BB_DNCE](/BB-SC/2b-MWLayer/Communication/BB_DNCE.md)
             - [BB_Eclipse_Canought](/BB-SC/2b-MWLayer/Communication/BB_Eclipse_Canought.md)
             - [BB_Eclipse_eCAL](/BB-SC/2b-MWLayer/Communication/BB_Eclipse_eCAL.md)
             - [BB_Eclipse_iceoryx2](/BB-SC/2b-MWLayer/Communication/BB_Eclipse_iceoryx2.md)
@@ -254,6 +255,7 @@ Ideas and concepts for BBs get collected in the [WorkInProgress folder](/WorkInP
         - API
             - [BB_Automotive_API_Framework](/BB-SC/3-AppLayer/API/BB_Automotive_API_Framework.md)
             - [BB_Open_Vehicle_API](/BB-SC/3-AppLayer/API/BB_Open_Vehicle_API.md)
+        - Communication
 - [BB-SC-TC](/BB-SC-TC/README.md)
     - Testing
 - [S-BB](/S-BB/README.md)
@@ -270,6 +272,7 @@ Ideas and concepts for BBs get collected in the [WorkInProgress folder](/WorkInP
         - [BB_Private_Cross_OEM_Joint_Compute_for_EV_Charging](/S-BB/2b-MWLayer/BB_Private_Cross_OEM_Joint_Compute_for_EV_Charging.md)
         - [BB_Unified_Push_Notification](/S-BB/2b-MWLayer/BB_Unified_Push_Notification.md)
         - [BB_VSS](/S-BB/2b-MWLayer/BB_VSS.md)
+        - Communication
             - [BB_VISS](/S-BB/2b-MWLayer/Communication/BB_VISS.md)
     - [3-AppLayer](/S-BB/3-AppLayer/README.md)
         - [BB_LF_EVerest](/S-BB/3-AppLayer/BB_LF_EVerest.md)
